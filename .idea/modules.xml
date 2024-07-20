@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alura_java.iml" filepath="$PROJECT_DIR$/alura_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/media/media.iml" filepath="$PROJECT_DIR$/media/media.iml" />
       <module fileurl="file://$PROJECT_DIR$/perfil/perfil.iml" filepath="$PROJECT_DIR$/perfil/perfil.iml" />
     </modules>
   </component>
